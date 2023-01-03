@@ -13,6 +13,7 @@ Problem statements
 - Complaints by media
 - Complaints by issue
 
-TABLEAU DASHBOARD LINK : Financial complaints | Tableau Public
+TABLEAU DASHBOARD LINK : "https://public.tableau.com/app/profile/sumita.boro/viz/Financialcomplaints_16717099689880/FCOverview?publish=yes"
+
 
 
